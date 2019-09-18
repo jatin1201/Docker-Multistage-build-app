@@ -1,4 +1,4 @@
-NAME = katacoda/docker-http-server
+NAME = Jatin/docker-http-server
 TAG=v1
 INSTANCE = scrapbook-http-server
 
